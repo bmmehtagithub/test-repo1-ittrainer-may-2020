@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-18T15:11:22 BST" name="Surefire suite" finished-at="2020-04-18T15:11:23 BST" duration-ms="33">
+    <groups>
+    </groups>
+    <test started-at="2020-04-18T15:11:22 BST" name="Surefire test" finished-at="2020-04-18T15:11:23 BST" duration-ms="33">
+      <class name="com.dashIT.estore.AppTest">
+        <test-method signature="testApp()[pri:0, instance:testApp(com.dashIT.estore.AppTest)]" started-at="2020-04-18T15:11:23 BST" name="testApp" finished-at="2020-04-18T15:11:23 BST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- com.dashIT.estore.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
